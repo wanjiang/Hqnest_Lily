@@ -5,56 +5,29 @@ lily.hqnest.com
 原始测试代码
 
 *******************
-Release Information
+02/13/2015
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
+编写代码区域： 
+1. application/controllers 
+2. application/views 
+3. application/models
+4. public/css/listyle.css // 所有CSS样式放到这个文件中，html中尽量少css代码
+可借鉴代码区域
+1. public/css/mystyle.css // 此处CSS命名可作为参考
+任务顺序
+1.熟悉 
+application/views/home/homepage.php
+application/models/Frontpage_model.php
+application/controllers/Home.php
+2.完善首页
+application/views/home/homepage.php
+3.设计英伦板块
 
 **************************
-Changelog and New Features
+02/14/2015
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
-Server Requirements
-*******************
-
-PHP version 5.4 or newer is recommended.
-
-It should work on 5.2.4 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <http://www.codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <http://www.codeigniter.com/docs>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <http://www.codeigniter.com/irc>`_
-
-***************
-Acknowledgement
-***************
-
-The EllisLab team and The Reactor Engineers would like to thank all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+1. 直接用Notepad++修改服务器上代码，你看看，应该会方便点
+http://www.inmotionhosting.com/support/website/ftp-client-setup/connect-ftp-notepad-plus
+2. 熟悉MVC架构，以及CodeIgniter框架，网站是建立在此基础上的
