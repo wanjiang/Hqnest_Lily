@@ -28,6 +28,6 @@ application/views/home/homepage.php
 02/14/2015
 **************************
 
-1. 直接用Notepad++修改服务器上代码，你看看，应该会方便点
+1. 直接用Notepad++修改服务器上代码
 http://www.inmotionhosting.com/support/website/ftp-client-setup/connect-ftp-notepad-plus
-2. 熟悉MVC架构，以及CodeIgniter框架，网站是建立在此基础上的
+2. 熟悉MVC架构，以及CodeIgniter框架
