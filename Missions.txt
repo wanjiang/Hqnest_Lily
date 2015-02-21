@@ -1,0 +1,22 @@
+-- 02/13/2015
+编写代码区域： 
+1. application/controllers 
+2. application/views 
+3. application/models
+4. public/css/listyle.css // 所有CSS样式放到这个文件中，html中尽量少css代码
+可借鉴代码区域
+1. public/css/mystyle.css // 此处CSS命名可作为参考
+任务顺序
+1.熟悉 
+application/views/home/homepage.php
+application/models/Frontpage_model.php
+application/controllers/Home.php
+2.完善首页
+application/views/home/homepage.php
+3.设计英伦板块
+
+-- 02/14/2015
+1. 直接用Notepad++修改服务器上代码，你看看，应该会方便点
+http://www.inmotionhosting.com/support/website/ftp-client-setup/connect-ftp-notepad-plus
+2. 熟悉MVC架构，以及CodeIgniter框架，网站是建立在此基础上的
+
